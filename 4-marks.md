@@ -27,3 +27,8 @@ export class Crypto {
   }
 }
 ```
+
+**Methods**
+- set using `m[letter]`
+- go to previous place using `ctrl+i/o`
+
