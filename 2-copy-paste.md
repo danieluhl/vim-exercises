@@ -1,6 +1,3 @@
-
-Practice yanking and pasting to replace
-
 1. Rename all the functions `beansAreCool`
 2. Replace the partial word `sum` or `Sum` with `some`
 

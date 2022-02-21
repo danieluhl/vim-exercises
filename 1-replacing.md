@@ -1,6 +1,3 @@
-
-Practice replacing one word with another.
-
 1. Replace addOne with increment
 2. Replace timesTwo with double
 3. Rename fn1 and fn2 to a and b
